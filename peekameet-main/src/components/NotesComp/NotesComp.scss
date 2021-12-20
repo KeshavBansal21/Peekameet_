@@ -1,0 +1,24 @@
+.addNotes {
+  color: #09a04f;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2rem;
+  cursor: pointer;
+  text-decoration: none;
+  margin: 1rem 0rem;
+}
+.addNotes:hover {
+  color: white;
+  background-color: #09a04f;
+}
+.addNotesLink {
+  text-decoration: none;
+}
+.notesComp {
+  width: 62.5%;
+  // height: 38vh auto;
+  height: auto;
+  height: 106vh;
+  background-color: white;
+}
